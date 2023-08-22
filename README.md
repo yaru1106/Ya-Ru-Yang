@@ -1,7 +1,7 @@
 
 #### Education
 <ul> 
-<b>Texas A&M University</b>, College Station, TX [Aug. 2022 – May. 2024]
+<li><b>Texas A&M University</b>, College Station, TX [Aug. 2022 – May. 2024]</li>
 <li>Master of Computer Science</li>
 </ul>
 <ul>
